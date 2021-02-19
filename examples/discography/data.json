@@ -1,0 +1,118 @@
+{
+  "albums": [
+    {
+      "title": "Thriller",
+      "year": 1982,
+      "genre": "Pop",
+      "artist": {
+        "name": "Michael Jackson"
+      },
+      "tracks": [
+        { "title": "Wanna Be Startin' Somethin'" },
+        { "title": "Baby Be Mine" },
+        { "title": "Vincent Price excerpt from Thriller Voice-Over Session" },
+        { "title": "Thriller" },
+        { "title": "Beat It" },
+        { "title": "Billie Jean" },
+        { "title": "Human Nature" },
+        { "title": "P.Y.T. (Pretty Young Thing)" },
+        { "title": "The Lady in My Life" }
+      ]
+    },
+    {
+      "title": "Rumours",
+      "genre": "Folk",
+      "year": 1977,
+      "artist": {
+        "name": "Fleetwood Mac"
+      },
+      "tracks": [
+        { "title": "I Don't Want to Know" },
+        { "title": "Dreams" },
+        { "title": "Never Going Back Again" },
+        { "title": "Don't Stop" },
+        { "title": "Go Your Own Way" },
+        { "title": "Songbird" },
+        { "title": "The Chain" },
+        { "title": "You Make Loving Fun" },
+        { "title": "Second Hand News" },
+        { "title": "Oh Daddy" },
+        { "title": "Gold Dust Woman" }
+      ]
+    },
+    {
+      "title": "Paul's Boutique",
+      "year": 1989,
+      "genre": "HipHop",
+      "artist": {
+        "name": "The Beastie Boys"
+      },
+      "tracks": [
+        { "title": "To All the Girls" },
+        { "title": "Shake Your Rump" },
+        { "title": "Johnny Ryall" },
+        { "title": "Egg Man" },
+        { "title": "High Plains Drifter" },
+        { "title": "The Sounds of Science" },
+        { "title": "3-Minute Rule" },
+        { "title": "Hey Ladies" },
+        { "title": "5-Piece Chicken Dinner" },
+        { "title": "Looking Down the Barrel of a Gun" },
+        { "title": "Car Thief" },
+        { "title": "What Comes Around" },
+        { "title": "Shadrach" },
+        { "title": "Ask for Janice" },
+        { "title": "B-Boy Bouillabaisse" }
+      ]
+    },
+    {
+      "title": "The Good Son",
+      "year": 1990,
+      "genre": "Alternative",
+      "artist": {
+        "name": "Nick Cave and the Bad Seeds"
+      },
+      "tracks": [
+        { "title": "Foi Na Cruz" },
+        { "title": "The Good Son" },
+        { "title": "Sorrow's Child" },
+        { "title": "The Weeping Song" },
+        { "title": "The Ship Song" },
+        { "title": "The Hammer Song" },
+        { "title": "Lament" },
+        { "title": "The Witness Song" },
+        { "title": "Lucy" }
+      ]
+    },
+    {
+      "title": "London Calling",
+      "year": 1979,
+      "genre": "Rock",
+      "artist": {
+        "name": "The Clash"
+      },
+      "tracks": [
+        { "title": "London Calling" },
+        { "title": "Brand New Cadillac" },
+        { "title": "Jimmy Jazz" },
+        { "title": "Hateful" },
+        { "title": "Rudie Can't Fail" },
+        { "title": "Spanish Bombs" },
+        { "title": "The Right Profile" },
+        { "title": "Lost In The Supermarket" },
+        { "title": "Clampdown" },
+        { "title": "The Guns Of Brixton" },
+        { "title": "Wrong 'Em Boyo" },
+        { "title": "Death Or Glory" },
+        { "title": "Koka Kola" },
+        { "title": "The Card Cheat" },
+        { "title": "Lover's Rock" },
+        { "title": "Four Horsemen" },
+        { "title": "I'm Not Down" },
+        { "title": "Revolution Rock" },
+        { "title": "Train In Vain" }
+
+      ]
+    }
+  ]
+}

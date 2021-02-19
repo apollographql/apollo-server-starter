@@ -3,15 +3,31 @@ const { ApolloServer, gql } = require("apollo-server");
 
 // Construct a schema, using GraphQL schema language
 const typeDefs = gql`
+
+  enum PetType {
+    Cat,
+    Dog
+  }
+
+  type Pet {
+    name: String!
+    petType: PetType!
+  }
+
   type Query {
-    hello: String
+    pets: [Pet!]!
   }
 `;
 
 // Provide resolver functions for your schema fields
 const resolvers = {
   Query: {
-    hello: (root, args, context) => "Hello world!"
+    pets: (root, args, context) => {
+      return [
+        { name: "Sandy", petType: 'Cat' },
+        { name: "Hank", petType: 'Dog' }
+      ]
+    }
   }
 };
 
