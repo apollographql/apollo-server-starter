@@ -9,7 +9,8 @@ const typeDefs = gql`
     Pop,
     Rock,
     Alternative
-    HipHop
+    HipHop,
+    Folk
   }
 
   type Track {
